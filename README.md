@@ -1,1 +1,2 @@
-# python-examples
+# python examples
+## Repository for python examples projects
